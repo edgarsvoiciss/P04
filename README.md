@@ -1,1 +1,1 @@
-# P04
+GIT versiju kontroles sistēmas apgūšana
